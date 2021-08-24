@@ -1,0 +1,14 @@
+D:\MII\Visual Studio\BasicProgramming\BasicProgramming\bin\Debug\netcoreapp3.1\BasicProgramming.exe
+D:\MII\Visual Studio\BasicProgramming\BasicProgramming\bin\Debug\netcoreapp3.1\BasicProgramming.deps.json
+D:\MII\Visual Studio\BasicProgramming\BasicProgramming\bin\Debug\netcoreapp3.1\BasicProgramming.runtimeconfig.json
+D:\MII\Visual Studio\BasicProgramming\BasicProgramming\bin\Debug\netcoreapp3.1\BasicProgramming.runtimeconfig.dev.json
+D:\MII\Visual Studio\BasicProgramming\BasicProgramming\bin\Debug\netcoreapp3.1\BasicProgramming.dll
+D:\MII\Visual Studio\BasicProgramming\BasicProgramming\bin\Debug\netcoreapp3.1\BasicProgramming.pdb
+D:\MII\Visual Studio\BasicProgramming\BasicProgramming\obj\Debug\netcoreapp3.1\BasicProgramming.csproj.AssemblyReference.cache
+D:\MII\Visual Studio\BasicProgramming\BasicProgramming\obj\Debug\netcoreapp3.1\BasicProgramming.GeneratedMSBuildEditorConfig.editorconfig
+D:\MII\Visual Studio\BasicProgramming\BasicProgramming\obj\Debug\netcoreapp3.1\BasicProgramming.AssemblyInfoInputs.cache
+D:\MII\Visual Studio\BasicProgramming\BasicProgramming\obj\Debug\netcoreapp3.1\BasicProgramming.AssemblyInfo.cs
+D:\MII\Visual Studio\BasicProgramming\BasicProgramming\obj\Debug\netcoreapp3.1\BasicProgramming.csproj.CoreCompileInputs.cache
+D:\MII\Visual Studio\BasicProgramming\BasicProgramming\obj\Debug\netcoreapp3.1\BasicProgramming.dll
+D:\MII\Visual Studio\BasicProgramming\BasicProgramming\obj\Debug\netcoreapp3.1\BasicProgramming.pdb
+D:\MII\Visual Studio\BasicProgramming\BasicProgramming\obj\Debug\netcoreapp3.1\BasicProgramming.genruntimeconfig.cache
